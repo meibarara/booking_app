@@ -71,6 +71,9 @@ flutter:
     - family:  EhealthIcons
       fonts:
        - asset: assets/fonts/EhealthIcons.ttf
+    - family:  Ehealthicon
+      fonts:
+       - asset: fonts/Ehealthicon.ttf
   #         style: italic
   #   - family: Trajan Pro
   #     fonts:
